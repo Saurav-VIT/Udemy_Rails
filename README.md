@@ -98,4 +98,4 @@ If you'd like to learn more about security in Rails, read
 
 If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
 
-Complete Ruby on Rails Developer
+First test repo on the Complete Ruby on Rails Developer course by Mashrur Hossain
