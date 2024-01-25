@@ -24,3 +24,15 @@ background-color: black !important;
   background-size: cover;
   height: 530px;
 }
+
+html,
+body{
+  height: 100%;
+}
+#page-content{
+  flex: 1 0 auto;
+  background-color: papayawhip;
+}
+#sticky-footer{
+  flex-shrink: none;
+}
