@@ -33,8 +33,7 @@ class ArticlesController < ApplicationController
 
   def destroy
     @article.destroy
-    flash[:notice] = 'Article was deleted succesfully.'
-    redirect_to articles_path
+    redirect_to articles_path, notice: 'Article was deleted succesfully.'
   end
 
   private
